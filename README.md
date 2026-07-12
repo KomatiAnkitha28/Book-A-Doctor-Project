@@ -395,11 +395,6 @@ npm run dev
 
 ---
 
----
-
-# 🎥 Demo Video
-
-Demo Video is available inside the **Demo-Video** folder.
 
 ```
 ```
