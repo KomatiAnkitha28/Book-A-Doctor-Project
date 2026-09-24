@@ -13,7 +13,7 @@ const port = process.env.PORT || 4000
 connectDB()
 connectCloudinary()
 
-middlewares
+// middlewares
 app.use(express.json())
 // app.use(cors({
 //   origin: ['http://localhost:5173', 'http://localhost:5174', 'https://adminprescriptodr.vercel.app', 'https://prescriptoapp-wheat.vercel.app'],
