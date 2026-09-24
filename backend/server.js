@@ -25,7 +25,8 @@ app.use(cors({
     'http://localhost:5174',
     'https://adminprescriptodr.vercel.app',
     'https://prescriptoapp-wheat.vercel.app',
-    'https://book-a-doctor-project.vercel.app'
+    'https://book-a-doctor-project.vercel.app',
+    'https://book-a-doctor-project-3lul.vercel.app'
   ],
   credentials: true
 }))
